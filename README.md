@@ -21,12 +21,6 @@ Screenshot of Project
 - CSS
 - JavaScript
 
-## Usage
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/sachinverma006/portfolio-page.git
    
 ## Contact
 Please don't hesitate to contact me with any questions. contact@codersachin.com
